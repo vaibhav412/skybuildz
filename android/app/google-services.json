@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19052111531",
+    "firebase_url": "https://skybuildz-57ea7.firebaseio.com",
+    "project_id": "skybuildz-57ea7",
+    "storage_bucket": "skybuildz-57ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19052111531:android:56f259218347e5fddcf9ee",
+        "android_client_info": {
+          "package_name": "com.example.skybuildz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19052111531-3ailocrkm2v830bmn51ajl96tv277c6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skybuildz",
+            "certificate_hash": "2c2730942b9f0f0962f448142ceeccb10415e1ff"
+          }
+        },
+        {
+          "client_id": "19052111531-3d6emlu2kiv9airbjdvdv23kctipje4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG9o9CQS2ioehpN2dtwIZ_eQjEv_b_T5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19052111531-3d6emlu2kiv9airbjdvdv23kctipje4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
